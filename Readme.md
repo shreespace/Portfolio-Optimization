@@ -29,9 +29,9 @@ This notebook performs:
 
 ## 📅 Time Period Analyzed
 
-> **From:** `1st October 2022`  
+> **From:** `1st October 2013`  
 > **To:** `1st October 2023`  
-> **Trading Days Considered:** ~260
+> **Trading Days Considered:** ~252
 
 ---
 
